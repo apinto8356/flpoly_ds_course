@@ -1,23 +1,28 @@
-## First Name Last Name
+## Adriana Pinto
 
-### Term Year 
+### Spring 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Chemistry 1 
 
-- Course 2
+- Chemistry lab
 
-- Course 3
+- Business Law
 
-- Course 4
+- Data Science
+
+- Business Finance
+
+- Entrepreneurial Opportunity Analysis
+
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Tennis
 
-- Thing 2
+- Cooking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Traveling
